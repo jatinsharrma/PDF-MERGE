@@ -56,7 +56,7 @@ SHIFT_DOWN_AMOUNT=20
 1. Ensure your `letterhead.pdf` is in the project folder (or update the path in `.env`).
 2. Run the script:
 ```bash
-python main.py
+python merge.py
 
 ```
 3. Check the `processed_pdfs` folder for your results.
