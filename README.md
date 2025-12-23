@@ -1,8 +1,3 @@
-Here is the updated `README.md` with the virtual environment instructions included.
-
----
-
-```markdown
 # PDF Letterhead Overlay Tool
 
 This project automates the process of applying a company letterhead to a batch of PDF documents. It scrapes a web directory for PDF files, downloads them, shifts the content down to make space for a header, applies the letterhead as a background, and saves the final files locally.
@@ -54,8 +49,6 @@ OUTPUT_DIR=processed_pdfs
 # How far to move the original text down (in points)
 # 20 points is approx 7mm. Increase this if text overlaps your header.
 SHIFT_DOWN_AMOUNT=20
-
-```
 
 ## Usage
 
