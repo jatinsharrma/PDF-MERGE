@@ -49,6 +49,7 @@ OUTPUT_DIR=processed_pdfs
 # How far to move the original text down (in points)
 # 20 points is approx 7mm. Increase this if text overlaps your header.
 SHIFT_DOWN_AMOUNT=20
+```
 
 ## Usage
 
@@ -58,8 +59,6 @@ SHIFT_DOWN_AMOUNT=20
 python main.py
 
 ```
-
-
 3. Check the `processed_pdfs` folder for your results.
 
 ## Troubleshooting
